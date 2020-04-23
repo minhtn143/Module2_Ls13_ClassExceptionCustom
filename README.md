@@ -1,6 +1,6 @@
-###[Thực hành] Khai báo lớp exception tuỳ biến
+### [Thực hành] Khai báo lớp exception tuỳ biến
 
-####Mục đích
+#### Mục đích
 
 Luyện tập khai báo các lớp exception tuỳ biến và xử lí ngoại lệ.
 
